@@ -28,5 +28,16 @@ Tools:
 - Presenting and demonstrating the findings using a slide presentation.
 
 ## Challenges and Solutions
-## 
+### Data Cleaning
+- Numerous duplicate entries. Initial general data cleaning was done. However, there were 'hidden' duplicates that could not be detected with the general data cleaning query which halted the process at some point. An advanced data manipulation query was applied that eventually solved this challenge.
+### Statistical analysis:
+- Errors in the distribution of data as a result of entry errors. Normality tests were used to determine the distribution of each population.
+
+### Additional Reflections
+- Data Cleaning: This project highlighted the need for thorough data cleaning and validation processes. Data cleaning pops the question 'how' and helps you answer it. Errors can mess up your data even though you have the answers, you may not get a correct analysis and confirmation with errors untileffective  data cleaning takes place.
+- Importance of Data Quality: This project highlighted the importance of data quality.
+- Cross-functional Collaboration: The project emphasized the value of collaborating with non-technical stakeholders to ensure that the insights derived are well received.
+- Continuous Learning: Working on this project reinforced the importance of continuous learning and adapting to new tools and techniques. There are different routes to answer a question,  but in business, the easier/ uncomplicated route saves time and resources. This project highlights the importance of weighing different options/answers for the benefit of faster results.
+- Collaborative Work: Working as a team was enjoyable and productive. It allowed us to leverage each other's strengths, share tasks, and deliver a good analysis.
+
   
